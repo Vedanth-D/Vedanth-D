@@ -2,8 +2,6 @@
 
 I am a passionate B.Tech CSE Cyber Sceurity student at Jain University Bangalore, Mainly interested in developing a strong Network in CyberSecurity as well as in Web Development. Passionate about solving real-world security challenges and advancing expertise in CyberSecurity.
 
-![<Vedanth-D>'s Stats](https://github-readme-stats.vercel.app/api?Vedanth-D=<Vedanth-D>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my B.Tech in Computer Science with Cyber Security at Jain University Bangalore.
