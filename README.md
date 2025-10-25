@@ -1,4 +1,4 @@
-# Hi, I'm <Vedanth D>! 👋
+# Hi, I'm Vedanth D! 👋
 
 I am a passionate B.Tech CSE Cyber Sceurity student at Jain University Bangalore, Mainly interested in developing a strong Network in CyberSecurity as well as in Web Development. Passionate about solving real-world security challenges and advancing expertise in CyberSecurity.
 
